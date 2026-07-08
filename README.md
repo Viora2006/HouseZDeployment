@@ -1,6 +1,8 @@
 # HouseZDeployment
 # please enjoy the zombie game! 
 
+[Download HouseZ.jar](HouseZ.jar)
+
 
 # HouseZ
 A 2D zombie survival game built in Java using Java Swing.
