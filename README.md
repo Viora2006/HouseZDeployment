@@ -1,5 +1,6 @@
 # HouseZDeployment
 # please enjoy the zombie game! 
+# DEMO BELOW!
 
 [Download HouseZ.jar](HouseZ.jar)
 
